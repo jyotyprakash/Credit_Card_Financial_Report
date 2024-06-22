@@ -3,7 +3,9 @@
 📣 I'm thrilled to share my latest Power BI project on Credit Card Transactions and Customer Weekly Reports!
 💡 Objective:
 To create a comprehensive weekly dashboard for credit cards that provides stakeholders with real-time insights into key performance indicators and trends, enabling them to monitor and evaluate their operations efficiently.
+
 Steps Included:
+
 ▶ Data Collection: Extracted data from MySQL.
 ▶ Data Preparation: Cleaned, processed, and applied DAX for data transformation.
 ▶ Dashboard Development: Created visualizations and insights.
@@ -13,16 +15,19 @@ Steps Included:
 ▫ Data sources: MySQL, Excel
 
 Process for Importing Data to MySQL Database:
+
 🔶 Prepared CSV file.
 🔶 Created tables in MySQL.
 🔶 Imported CSV file into MySQL.
 
 📊 Credit Card Financial Dashboard Using Power BI:
+
 ▫ Developed an interactive dashboard using transaction and consumer data from an SQL database to provide real-time insights.
 ▫ Streamlined data processing and analysis to monitor key performance metrics and trends.
 ▫ Shared actionable insights with stakeholders based on dashboard findings to support decision-making processes.
 
 🔳 Project Insights - Week 53 (31st Dec):
+
 ➖Week-over-Week Change:
 ➖ Revenue increased by 28.8%.
 ➖ Year-to-Date Overview:
