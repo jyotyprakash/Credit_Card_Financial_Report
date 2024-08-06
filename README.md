@@ -6,19 +6,20 @@ To create a comprehensive weekly dashboard for credit cards that provides stakeh
 
 Steps Included:
 
-▶ Data Collection: Extracted data from MySQL.
-▶ Data Preparation: Cleaned, processed, and applied DAX for data transformation.
-▶ Dashboard Development: Created visualizations and insights.
-▶ Export & Sharing: Shared the final project with stakeholders.
+* ▶ Data Collection: Extracted data from MySQL.
+* ▶ Data Preparation: Cleaned, processed, and applied DAX for data transformation.
+* ▶ Dashboard Development: Created visualizations and insights.
+* ▶ Export & Sharing: Shared the final project with stakeholders.
+  
 🛠 Tools Used:
 ▫ Microsoft Power BI
 ▫ Data sources: MySQL, Excel
 
 Process for Importing Data to MySQL Database:
 
-🔶 Prepared CSV file.
-🔶 Created tables in MySQL.
-🔶 Imported CSV file into MySQL.
+* 🔶 Prepared CSV file.
+* 🔶 Created tables in MySQL.
+* 🔶 Imported CSV file into MySQL.
 
 📊 Credit Card Financial Dashboard Using Power BI:
 
@@ -28,14 +29,14 @@ Process for Importing Data to MySQL Database:
 
 🔳 Project Insights - Week 53 (31st Dec):
 
-➖Week-over-Week Change:
-➖ Revenue increased by 28.8%.
-➖ Year-to-Date Overview:
-➖ Overall revenue: $57M
-➖ Total interest: $8M
-➖ Total transaction amount: $46M
-➖ Revenue by gender: Male customers $31M, Female customers $26M
-➖ Contribution by credit card type: Blue & Silver credit cards account for 93% of transactions
-➖ Geographic contribution: TX, NY, and CA account for 68% of transactions
-➖ Overall activation rate: 57.5%
-➖ Overall delinquent rate: 6.06%
+* ➖Week-over-Week Change:
+* ➖ Revenue increased by 28.8%.
+* ➖ Year-to-Date Overview:
+* ➖ Overall revenue: $57M
+* ➖ Total interest: $8M
+* ➖ Total transaction amount: $46M
+* ➖ Revenue by gender: Male customers $31M, Female customers $26M
+* ➖ Contribution by credit card type: Blue & Silver credit cards account for 93% of transactions
+* ➖ Geographic contribution: TX, NY, and CA account for 68% of transactions
+* ➖ Overall activation rate: 57.5%
+* ➖ Overall delinquent rate: 6.06%
